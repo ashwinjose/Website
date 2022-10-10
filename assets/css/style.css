@@ -670,7 +670,7 @@ section {
 }
 
 .services .iconbox-pink:hover .icon path {
-  fill: #e80368;
+  fill: #ff4b99;
 }
 
 .services .iconbox-yellow i {
@@ -694,7 +694,7 @@ section {
 }
 
 .services .iconbox-red:hover .icon path {
-  fill: #ff5828;
+  fill: #e90707;
 }
 
 .services .iconbox-teal i {
